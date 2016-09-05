@@ -308,7 +308,7 @@ function receivedMessage(event) {
         break;
 
       default:
-        sendTextMessage(senderID, messageText);
+        sendTextMessage(senderID, '無法認識「' + messageText + '」指令，請重新輸入。');
     }
   } else if (messageAttachments) {
     sendTextMessage(senderID, "Message with attachment received");
