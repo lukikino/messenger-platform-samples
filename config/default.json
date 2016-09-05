@@ -2,5 +2,5 @@
     "appSecret": "79290cb5cc54cc8962a7c2849af62d8a",
     "pageAccessToken": "EAALTE8GsTskBAHC1gqDmnis9Bv6AcfYya2w54QGJfy1sO1R2qIAFfdseXRdOZC35SboQR2pEDyDnEU2aWw4vMUFDYUepd0CQcGNRZAhR5lz7PoVhy0OV2cQIWNGj9ZCggOlZA1K82CAYpIT8yVjtlYg2mAdgcVeyIhMrvWE53QZDZD",
     "validationToken": "txhvjIusy723h",
-    "serverURL": "http://sit-fbmtest.azurewebsites.net/webhook"
+    "serverURL": "http://sit-fbmtest.azurewebsites.net"
 }
